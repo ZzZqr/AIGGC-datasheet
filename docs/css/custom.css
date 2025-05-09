@@ -1,0 +1,9 @@
+body {
+  background-color: pink !important;
+}
+
+/* 所有链接为蓝色并带下划线 */
+a {
+  color: #0066cc;
+  text-decoration: underline;
+}

@@ -1,0 +1,29 @@
+/* 页面背景统一浅蓝 */
+html, body {
+  background-color: #F0F4F9 !important;
+}
+
+/* 顶部 Logo 标题 */
+header .logo a {
+  color: #001199 !important;
+}
+
+/* 顶部导航菜单链接 */
+header #menu a {
+  color: #001199 !important;
+}
+
+/* 主体链接样式设置为蓝色+下划线 */
+main table a {
+  color: #0066cc !important;
+}
+
+/* 标题内部链接 */
+h2 > a, h3 > a, .content h2 > a {
+  color: #0066cc !important;
+}
+
+/* 顶部导航不加下划线 */
+nav a {
+  text-decoration: none !important;
+}

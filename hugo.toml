@@ -1,0 +1,28 @@
+baseURL = "https://ZzZqr.github.io/AIGGC-datasheet/"
+languageCode = "en-us"
+title = "Datasheet for Game Commentary Datasets"
+theme = "PaperMod"
+
+# 指定 Hugo 输出目录为 docs（GitHub Pages 默认读取它）
+publishDir = "docs"
+
+[params]
+  homeInfoParams = { Title = "Datasheet for Game Commentary Datasets", Content = "A collection of structured metadata for game commentary datasets." }
+  customCSS = ["css/custom.css"]
+  defaultTheme = "light"
+  disableThemeToggle = true
+
+[[menu.main]]
+  name = "Datasets"
+  url = "/datasets/"
+  weight = 1
+
+[[menu.main]]
+  name = "Datasheet"
+  url = "/datasheet/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
