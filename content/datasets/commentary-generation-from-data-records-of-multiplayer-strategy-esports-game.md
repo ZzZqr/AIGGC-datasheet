@@ -14,7 +14,7 @@ Esports, a sports competition on video games, has become one of the most importa
     Download Paper
   </a>
 
-  <a href="bib/commentary-generation-from-data-records-of-multiplayer-strategy-esports-game.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/commentary-generation-from-data-records-of-multiplayer-strategy-esports-game.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

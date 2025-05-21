@@ -13,7 +13,7 @@ Electronic sports (eSports), the sport competition using video games, has become
     Download Paper
   </a>
 
-  <a href="bib/from-esports-data-to-game-commentary-datasets-models-and-evaluation-metrics.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/from-esports-data-to-game-commentary-datasets-models-and-evaluation-metrics.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

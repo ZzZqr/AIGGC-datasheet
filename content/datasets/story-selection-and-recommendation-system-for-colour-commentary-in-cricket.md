@@ -12,7 +12,7 @@ During a cricket match, commentary keeps the viewers entertained and updated abo
     Download Paper
   </a>
 
-  <a href="bib/story-selection-and-recommendation-system-for-colour-commentary-in-cricket.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/story-selection-and-recommendation-system-for-colour-commentary-in-cricket.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

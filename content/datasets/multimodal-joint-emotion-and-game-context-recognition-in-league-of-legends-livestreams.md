@@ -13,7 +13,7 @@ Video game streaming provides the viewer with a rich set of audio-visual data, c
     Download Paper
   </a>
 
-  <a href="bib/multimodal-joint-emotion-and-game-context-recognition-in-league-of-legends-livestreams.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/multimodal-joint-emotion-and-game-context-recognition-in-league-of-legends-livestreams.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

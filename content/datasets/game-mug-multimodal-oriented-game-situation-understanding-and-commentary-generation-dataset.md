@@ -14,7 +14,7 @@ The dynamic nature of esports makes the situation relatively complicated for ave
     Download Paper
   </a>
 
-  <a href="bib/game-mug-multimodal-oriented-game-situation-understanding-and-commentary-generation-dataset.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/game-mug-multimodal-oriented-game-situation-understanding-and-commentary-generation-dataset.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

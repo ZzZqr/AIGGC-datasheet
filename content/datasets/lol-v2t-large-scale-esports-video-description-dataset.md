@@ -13,7 +13,7 @@ Esports is a fastest-growing new field with a largely online-presence, and is cr
     Download Paper
   </a>
 
-  <a href="bib/lol-v2t-large-scale-esports-video-description-dataset.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/lol-v2t-large-scale-esports-video-description-dataset.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

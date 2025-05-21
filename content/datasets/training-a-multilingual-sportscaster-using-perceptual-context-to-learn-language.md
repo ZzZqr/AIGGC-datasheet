@@ -13,7 +13,7 @@ We present a novel framework for learning to interpret and generate language usi
     Download Paper
   </a>
 
-  <a href="bib/training-a-multilingual-sportscaster-using-perceptual-context-to-learn-language.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/training-a-multilingual-sportscaster-using-perceptual-context-to-learn-language.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

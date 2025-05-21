@@ -12,7 +12,7 @@ Soccer videos are a rich playground for computer vision, involving many elements
     Download Paper
   </a>
 
-  <a href="bib/scaling-up-soccernet-with-multi-view-spatial-localization-and-re-identification.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/scaling-up-soccernet-with-multi-view-spatial-localization-and-re-identification.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

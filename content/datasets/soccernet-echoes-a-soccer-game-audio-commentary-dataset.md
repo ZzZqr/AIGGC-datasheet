@@ -12,7 +12,7 @@ The application of Automatic Speech Recognition (ASR) technology in soccer enabl
     Download Paper
   </a>
 
-  <a href="bib/soccernet-echoes-a-soccer-game-audio-commentary-dataset.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/soccernet-echoes-a-soccer-game-audio-commentary-dataset.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

@@ -14,7 +14,7 @@ The chess domain is well-suited for creating an artificial intelligence (AI) sys
     Download Paper
   </a>
 
-  <a href="bib/aspect-based-sentiment-evaluation-of-chess-moves-assess-an-nlp-based-method-for-evaluating-chess-strategies-from-textbooks.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/aspect-based-sentiment-evaluation-of-chess-moves-assess-an-nlp-based-method-for-evaluating-chess-strategies-from-textbooks.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

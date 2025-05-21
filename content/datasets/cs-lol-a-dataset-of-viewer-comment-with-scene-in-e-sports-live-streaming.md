@@ -14,7 +14,7 @@ Billions of live-streaming viewers share their opinions on scenes they are watch
     Download Paper
   </a>
 
-  <a href="bib/cs-lol-a-dataset-of-viewer-comment-with-scene-in-e-sports-live-streaming.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/cs-lol-a-dataset-of-viewer-comment-with-scene-in-e-sports-live-streaming.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 

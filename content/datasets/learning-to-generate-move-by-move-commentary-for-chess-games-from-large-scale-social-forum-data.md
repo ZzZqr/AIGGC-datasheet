@@ -12,7 +12,7 @@ This paper examines the problem of generating natural language descriptions of c
     Download Paper
   </a>
 
-  <a href="bib/learning-to-generate-move-by-move-commentary-for-chess-games-from-large-scale-social-forum-data.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+  <a href="../bib/learning-to-generate-move-by-move-commentary-for-chess-games-from-large-scale-social-forum-data.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
     Download BibTeX
   </a>
 
