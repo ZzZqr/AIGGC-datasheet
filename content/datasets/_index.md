@@ -1,6 +1,4 @@
 ---
-title: "Datasets"
+title: "Game Commentary Datasets"
 ---
-
-This section contains game commentary datasets across various domains.
 

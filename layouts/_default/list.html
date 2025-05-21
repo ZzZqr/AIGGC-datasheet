@@ -3,13 +3,11 @@
 <h1>{{ .Title }}</h1>
 
 <!-- 可选统计区域 -->
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; border: 1px solid #ccc; padding: 1rem; margin-bottom: 2rem;">
-  <div><strong>Board Game Commentary</strong><br>10</div>
-  <div><strong>Sports Game Commentary</strong><br>20</div>
-  <div><strong>Esports Game Commentary</strong><br>15</div>
-</div>
-
-<h2>Commentary Datasets</h2>
+<!--<div style="display: flex; flex-wrap: wrap; gap: 2rem; border: 1px solid #ccc; padding: 1rem; margin-bottom: 2rem;">-->
+<!--  <div><strong>Board Game Commentary</strong><br>10</div>-->
+<!--  <div><strong>Sports Game Commentary</strong><br>20</div>-->
+<!--  <div><strong>Esports Game Commentary</strong><br>15</div>-->
+<!--</div>-->
 
 <!--<style>-->
 <!--  .clamp-two {-->
@@ -44,7 +42,7 @@
 <!--{{ end }}-->
 
 {{ range .Pages }}
-  <div style="background-color: white; padding: 1rem; margin-bottom: 1.5rem; border-radius: 8px; box-shadow: 0 0 4px rgba(0,0,0,0.1);">
+  <div style="background-color: white; padding: 1rem; margin-top:20px; border-radius: 8px; box-shadow: 0 0 4px rgba(0,0,0,0.1);">
     <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
       <a href="{{ .RelPermalink }}" style="font-weight: bold; color: #0066cc; font-size: 1.1rem; text-decoration: none; flex-grow: 1; margin-right: 10px;" target="_blank">
         {{ .Title }}

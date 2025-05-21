@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div style="padding: 2rem; max-width: 800px; margin: 0 auto;">
+    <h1 style="font-size: 2.2rem; line-height: 1.2; margin: 0 auto; width: fit-content; white-space: nowrap;">
+      {{ .Title }}
+    </h1>
+    <div style="font-size: 1.1rem; line-height: 1.6; text-align: left;">
+      <style>
+        main ul, main ol {
+          padding-left: 1.5rem;
+          margin-left: 0;
+        }
+        main li {
+          margin-top: 1rem;
+        }
+        main h2 {
+          margin-top: 1.5rem;
+        }
+      </style>
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}

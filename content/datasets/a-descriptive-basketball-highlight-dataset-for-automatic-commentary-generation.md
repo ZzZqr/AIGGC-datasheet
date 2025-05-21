@@ -18,4 +18,8 @@ The emergence of video captioning makes it possible to automatically generate na
     Download BibTeX
   </a>
 
+<a href="bib/a-descriptive-basketball-highlight-dataset-for-automatic-commentary-generation.zip" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    Download BibTeXzpi
+  </a>
+
 </div>
