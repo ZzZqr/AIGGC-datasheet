@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Unknown on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/unknown/</link>
+    <description>Recent content in Unknown on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/unknown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>{SOCCER}: An Information-Sparse Discourse State Tracking Collection in the Sports Commentary Domain</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/soccer-an-information-sparse-discourse-state-tracking-collection-in-the-sports-commentary-domain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/soccer-an-information-sparse-discourse-state-tracking-collection-in-the-sports-commentary-domain/</guid>
+      <description>&lt;p&gt;In the pursuit of natural language understanding, there has been a long standing interest in tracking state changes throughout narratives. Impressive progress has been made in modeling the state of transaction-centric dialogues and procedural texts. However, this problem has been less intensively studied in the realm of general discourse where ground truth descriptions of states may be loosely defined and state changes are less densely distributed over utterances. This paper proposes to turn to simplified, fully observable systems that show some of these properties: Sports events. We curated 2,263 soccer matches including time-stamped natural language commentary accompanied by discrete events such as a team scoring goals, switching players or being penalized with cards. We propose a new task formulation where, given paragraphs of commentary of a game at different timestamps, the system is asked to recognize the occurrence of in-game events. This domain allows for rich descriptions of state while avoiding the complexities of many other real-world settings. As an initial point of performance measurement, we include two baseline methods from the perspectives of sentence classification with temporal dependence and current state-of-the-art generative model, respectively, and demonstrate that even sophisticated existing methods struggle on the state tracking task when the definition of state broadens or non-event chatter becomes prevalent.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CS-lol: a Dataset of Viewer Comment with Scene in E-sports Live-streaming</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/cs-lol-a-dataset-of-viewer-comment-with-scene-in-e-sports-live-streaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/cs-lol-a-dataset-of-viewer-comment-with-scene-in-e-sports-live-streaming/</guid>
+      <description>&lt;p&gt;Billions of live-streaming viewers share their opinions on scenes they are watching in real-time and interact with the event, commentators as well as other viewers via text comments. Thus, there is necessary to explore viewers’ comments with scenes in E-sport live-streaming events. In this paper, we developed CS-lol, a new large-scale dataset containing comments from viewers paired with descriptions of game scenes in E-sports live-streaming. Moreover, we propose a task, namely viewer comment retrieval, to retrieve the viewer comments for the scene of the live-streaming event. Results on a series of baseline retrieval methods derived from typical IR evaluation methods show our task as a challenging task. Finally, we release CS-lol and baseline implementation to the research community as a resource.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Extraction of Strong and Weak Regions of Cricket Batsman through Text-Commentary Analysis</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/extraction-of-strong-and-weak-regions-of-cricket-batsman-through-text-commentary-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/extraction-of-strong-and-weak-regions-of-cricket-batsman-through-text-commentary-analysis/</guid>
+      <description>&lt;p&gt;Cricket is a famous game in the world where many metrics are introduced and being used to help the coaches and umpires to solve the critical problems. Though different statistics are used to quantify the player&amp;rsquo;s performance based on strike rate, average or for ranking, prediction, and optimal team selection. There is not any effective method to measure the strong and weak regions of a batsman in cricket. In this paper, a text mining method is presented to extract either the strong shot selection points that are frequent for scoring or weak shot regions that seem tough for a batsman to play. Also, a mechanism is put forward to calculate the region-wise strike rate of an individual batsman. To achieve the objectives, the T20 cricket text commentary is being used for this purpose which is available on the espncricinfo website. The proposed method can be helpful for coaches and players to know the strong or weak regions where the batsman feels ease or difficulty to play, respectively. Moreover, the opponent bowlers can also use this method to plan the area where to bowl to each batsman.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GameFlow: Narrative Visualization of NBA Basketball Games</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/gameflow-narrative-visualization-of-nba-basketball-games/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/gameflow-narrative-visualization-of-nba-basketball-games/</guid>
+      <description>&lt;p&gt;ough basketball games have received broad attention, the forms of game reports and webcast are purely content-based cross-media: texts, videos, snapshots, and performance figures. Analytical narrations of games that seek to compose a complete game from heterogeneous datasets are challenging for general media producers because such a composition is time-consuming and heavily depends on domain experts. In particular, an appropriate analytical commentary of basketball games requires two factors, namely, rich context and domain knowledge, which includes game events, player locations, player profiles, and team pr&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generating commentaries for tennis videos</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/generating-commentaries-for-tennis-videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/generating-commentaries-for-tennis-videos/</guid>
+      <description>&lt;p&gt;esent an approach to automatically generating verbal commentaries for tennis games. We introduce a novel application that requires a combination of techniques from computer vision, natural language processing and machine learning. A video sequence is first analysed using state-of-the-art computer vision methods to track the ball, fit the detected edges to the court model, track the players, and recognise their strokes. Based on the recognised visual attributes we formulate the tennis commentary generation problem in the framework of long short-term memory recurrent neural networks as well as st&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Generating Racing Game Commentary from Vision, Language, and Structured Data</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/generating-racing-game-commentary-from-vision-language-and-structured-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/generating-racing-game-commentary-from-vision-language-and-structured-data/</guid>
+      <description>&lt;p&gt;ask of automatically generating commentaries for races in a motor racing game, from vision, structured numerical, and textual data. Commentaries provide information to support spectators in understanding events in races. Commentary generation models need to interpret the race situation and generate the correct content at the right moment. We divide the task into two subtasks: utterance timing identification and utterance generation. Because existing datasets do not have such alignments of data in multiple modalities, this setting has not been explored in depth. In this study, we introduce a new large-scale dataset that contains aligned video data, structured numerical data, and transcribed commentaries that consist of 129,226 utterances in 1,389 races in a game. Our analysis reveals that the characteristics of commentaries change over time or from viewpoints. Our experiments on the subtasks show that it is still challenging for a state-of-the-art vision encoder to capture useful information from videos to generate accurate commentaries. We make the dataset and baseline implementation publicly available for further research.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>GOAL: A Challenging Knowledge-grounded Video Captioning Benchmark for Real-time Soccer Commentary Generation</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/goal-a-challenging-knowledge-grounded-video-captioning-benchmark-for-real-time-soccer-commentary-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/goal-a-challenging-knowledge-grounded-video-captioning-benchmark-for-real-time-soccer-commentary-generation/</guid>
+      <description>&lt;p&gt;-&lt;/p&gt;
+&lt;p&gt;Despite the recent emergence of video captioning models, how to generate vivid, fine-grained video descriptions based on the background knowledge (i.e., long and informative commentary about the domain-specific scenes with appropriate reasoning) is still far from being solved, which however has great applications such as automatic sports narrative. Based on soccer game videos and synchronized commentary data, we present GOAL, a benchmark of over 8.9k soccer video clips, 22k sentences, and 42k knowledge triples for proposing a challenging new task setting as Knowledge-grounded Video Captioning (KGVC). We experimentally test existing state-of-the-art (SOTA) methods&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning to Generate Move-by-Move Commentary for Chess Games from Large-Scale Social Forum Data</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/learning-to-generate-move-by-move-commentary-for-chess-games-from-large-scale-social-forum-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/learning-to-generate-move-by-move-commentary-for-chess-games-from-large-scale-social-forum-data/</guid>
+      <description>&lt;p&gt;r examines the problem of generating natural language descriptions of chess games. We introduce a new large-scale chess commentary dataset and propose methods to generate commentary for individual moves in a chess game. The introduced dataset consists of more than 298K chess move-commentary pairs across 11K chess games. We highlight how this task poses unique research challenges in natural language generation: the data contain a large variety of styles of commentary and frequently depend on pragmatic context. We benchmark various baselines and propose an end-to-end trainable neural model which takes into account multiple pragmatic aspects of&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Learning to sportscast: a test of grounded language acquisition</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/learning-to-sportscast-a-test-of-grounded-language-acquisition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/learning-to-sportscast-a-test-of-grounded-language-acquisition/</guid>
+      <description>&lt;p&gt;t a novel commentator system that learns language from sportscasts of simulated soccer games. The system learns to parse and generate commentaries without any engineered knowledge about the English language. Training is done using only ambiguous supervision in the form of textual human commentaries and simulation states of the soccer games. The system simultaneously tries to establish correspondences between the commentaries and the simulation states as well as build a translation model. We also present a novel algorithm, Iterative Generation Strategy Learning (IGSL), for deciding which events to comment on. Human evaluat&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LoL-V2T: Large-Scale Esports Video Description Dataset</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/lol-v2t-large-scale-esports-video-description-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/lol-v2t-large-scale-esports-video-description-dataset/</guid>
+      <description>&lt;p&gt;Esports is a fastest-growing new field with a largely online-presence, and is creating a demand for automatic domain-specific captioning tools. However, at the current time, there are few approaches that tackle the esports video description problem. In this work, we propose a large-scale dataset for esports video description, focusing on the popular game &amp;ldquo;League of Legends&amp;rdquo;. The dataset, which we call LoL-V2T, is the largest video description dataset in the video game domain, and includes 9,723 clips with 62,677 captions. This new dataset presents multiple new video captioning challenges such as large amounts&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Multimodal Joint Emotion and Game Context Recognition in League of Legends Livestreams</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/multimodal-joint-emotion-and-game-context-recognition-in-league-of-legends-livestreams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/multimodal-joint-emotion-and-game-context-recognition-in-league-of-legends-livestreams/</guid>
+      <description>&lt;p&gt;ming provides the viewer with a rich set of audio-visual data, conveying information both with regards to the game itself, through game footage and audio, as well as the streamer&amp;rsquo;s emotional state and behaviour via webcam footage and audio. Analysing player behaviour and discovering correlations with game context is crucial for modelling and understanding important aspects of livestreams, but comes with a significant set of challenges - such as fusing multimodal data captured by different sensors in uncontrolled (`in-the-wild&amp;rsquo;) conditions. Firstly, we present, to our knowledge, the first data set of League of Legends livestreams, annotat&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Outcome Classification in Cricket Using Deep Learning</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/outcome-classification-in-cricket-using-deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/outcome-classification-in-cricket-using-deep-learning/</guid>
+      <description>&lt;p&gt;n applications of Artificial Intelligence day by day, every domain is going automated. Machine learning has enabled systems to learn the process on its own in order to reduce the human labour. In sports like cricket, Football AI has not been used on a greater scale but there are certain areas where it can be of great help to apply AI techniques. In this paper the outcome classification task has been performed on cricket videos. The main purpose of performing such activities is to create automatic commentary generation. There are many sub-tasks needed to be considered for this task. One of those tasks is to cl&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Scaling up SoccerNet with Multi-view Spatial Localization and Re-identification</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/scaling-up-soccernet-with-multi-view-spatial-localization-and-re-identification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/scaling-up-soccernet-with-multi-view-spatial-localization-and-re-identification/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:249894209&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/scaling-up-soccernet-with-multi-view-spatial-localization-and-re-identification.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SentiMATE: Learning to play Chess through Natural Language Processing</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/sentimate-learning-to-play-chess-through-natural-language-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/sentimate-learning-to-play-chess-through-natural-language-processing/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:197935466&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/sentimate-learning-to-play-chess-through-natural-language-processing.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SoccerNet-Caption: Dense Video Captioning for Soccer Broadcasts Commentaries</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-caption-dense-video-captioning-for-soccer-broadcasts-commentaries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-caption-dense-video-captioning-for-soccer-broadcasts-commentaries/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:258049025&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/soccernet-caption-dense-video-captioning-for-soccer-broadcasts-commentaries.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SoccerNet-Echoes: A Soccer Game Audio Commentary Dataset</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-echoes-a-soccer-game-audio-commentary-dataset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-echoes-a-soccer-game-audio-commentary-dataset/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:269757092&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/soccernet-echoes-a-soccer-game-audio-commentary-dataset.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SoccerNet-v2: A Dataset and Benchmarks for Holistic Understanding of Broadcast Soccer Videos</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-v2-a-dataset-and-benchmarks-for-holistic-understanding-of-broadcast-soccer-videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-v2-a-dataset-and-benchmarks-for-holistic-understanding-of-broadcast-soccer-videos/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://doi.org/10.1109/CVPRW53098.2021.00508&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/soccernet-v2-a-dataset-and-benchmarks-for-holistic-understanding-of-broadcast-soccer-videos.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-a-scalable-dataset-for-action-spotting-in-soccer-videos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/soccernet-a-scalable-dataset-for-action-spotting-in-soccer-videos/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://doi.org/10.1109/cvprw.2018.00223&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/soccernet-a-scalable-dataset-for-action-spotting-in-soccer-videos.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Sports Commentary Recommendation System (SCoReS): machine learning for automated narrative</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/sports-commentary-recommendation-system-scores-machine-learning-for-automated-narrative/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/sports-commentary-recommendation-system-scores-machine-learning-for-automated-narrative/</guid>
+      <description>&lt;p&gt;Automated sports commentary is a form of automated narrative. Sports commentary exists to keep the viewer informed and entertained. One way to entertain the viewer is by telling brief stories relevant to the game in progress. We introduce a system called the Sports Commentary Recommendation System (SCoReS) that can automatically suggest stories for commentators to tell during games. Through several user studies, we compared commentary using SCoReS to three other types of commentary and show that SCoReS adds significantly to the broadcast across several enjoyment metrics. We also collected interview data from professional sports commentators who positively evaluated a demonstration of the system. We conclude that SCoReS can be a useful broadcast tool, effective at selecting stories that add to the enjoyment and watch-ability of sports. SCoReS is a step toward automating sports commentary and, thus, automating narrative.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>STORY SELECTION AND RECOMMENDATION SYSTEM FOR COLOUR COMMENTARY IN CRICKET</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/story-selection-and-recommendation-system-for-colour-commentary-in-cricket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/story-selection-and-recommendation-system-for-colour-commentary-in-cricket/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:212473004&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/story-selection-and-recommendation-system-for-colour-commentary-in-cricket.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>TenniSet: A Dataset for Dense Fine-Grained Event Recognition, Localisation and Description</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/tenniset-a-dataset-for-dense-fine-grained-event-recognition-localisation-and-description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/tenniset-a-dataset-for-dense-fine-grained-event-recognition-localisation-and-description/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://doi.org/10.1109/DICTA.2017.8227494&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/tenniset-a-dataset-for-dense-fine-grained-event-recognition-localisation-and-description.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Training a Multilingual Sportscaster: Using Perceptual Context to Learn Language</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/training-a-multilingual-sportscaster-using-perceptual-context-to-learn-language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/training-a-multilingual-sportscaster-using-perceptual-context-to-learn-language/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:6678765&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/training-a-multilingual-sportscaster-using-perceptual-context-to-learn-language.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Game-Playing Agents with Natural Language Annotations</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/understanding-game-playing-agents-with-natural-language-annotations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/understanding-game-playing-agents-with-natural-language-annotations/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:248218465&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/understanding-game-playing-agents-with-natural-language-annotations.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

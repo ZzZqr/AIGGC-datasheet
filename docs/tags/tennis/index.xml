@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tennis on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/tennis/</link>
+    <description>Recent content in Tennis on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/tennis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TenniSet: A Dataset for Dense Fine-Grained Event Recognition, Localisation and Description</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/tenniset-a-dataset-for-dense-fine-grained-event-recognition-localisation-and-description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/tenniset-a-dataset-for-dense-fine-grained-event-recognition-localisation-and-description/</guid>
+      <description>&lt;p&gt;This paper introduces a new video understanding dataset which can be utilised for the related problems of event recognition, localisation and description in video. Our dataset consists of dense, well structured event annotations in untrimmed video of tennis matches. We also include highly detailed commentary style descriptions, which are heavily dependent on both the occurrence as well as the sequence of particular events. We use general deep learning techniques to acquire some initial baseline results on our dataset, without the need for explicit domain-specific assumptions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

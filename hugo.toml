@@ -6,6 +6,11 @@ theme = "PaperMod"
 # 指定 Hugo 输出目录为 docs（GitHub Pages 默认读取它）
 publishDir = "docs"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   homeInfoParams = { Title = "Datasheet for Game Commentary Datasets", Content = "A collection of structured metadata for game commentary datasets." }
   customCSS = ["css/custom.css"]

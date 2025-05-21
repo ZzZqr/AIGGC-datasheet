@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Baseball on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/baseball/</link>
+    <description>Recent content in Baseball on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/baseball/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automated Story Selection for Color Commentary in Sports</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/automated-story-selection-for-color-commentary-in-sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/automated-story-selection-for-color-commentary-in-sports/</guid>
+      <description>&lt;p&gt;Automated sports commentary is a form of automated narrative. Sports commentary exists to keep the viewer informed and entertained. One way to entertain the viewer is by telling brief stories relevant to the game in progress. We present a system called the sports commentary recommendation system (SCoReS) that can automatically suggest stories for commentators to tell during games. Through several user studies, we compared commentary using SCoReS to three other types of commentary and show that SCoReS adds significantly to the broadcast across several enjoyment metrics. We also collected interview data from professional sports commentators who positively evaluated a demonstration of the system. We conclude that SCoReS can be a useful broadcast tool, effective at selecting stories that add to the enjoyment and watchability of sports. SCoReS is a step toward automating sports commentary and, thus, automating narrative.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

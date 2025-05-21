@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Soccer on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/soccer/</link>
+    <description>Recent content in Soccer on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/soccer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MatchTime: Towards Automatic Soccer Game Commentary Generation</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/matchtime-towards-automatic-soccer-game-commentary-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/matchtime-towards-automatic-soccer-game-commentary-generation/</guid>
+      <description>&lt;p&gt;Soccer is a globally popular sport with a vast audience, in this paper, we consider constructing an automatic soccer game commentary model to improve the audiences&amp;rsquo; viewing experience. In general, we make the following contributions: &lt;em&gt;First&lt;/em&gt;, observing the prevalent video-text misalignment in existing datasets, we manually annotate timestamps for 49 matches, establishing a more robust benchmark for soccer game commentary generation, termed as &lt;em&gt;SN-Caption-test-align&lt;/em&gt;; &lt;em&gt;Second&lt;/em&gt;, we propose a multi-modal temporal alignment pipeline to automatically correct and filter the existing dataset at scale, creating a higher-quality soccer game commentary dataset for training, denoted as &lt;em&gt;MatchTime&lt;/em&gt;; &lt;em&gt;Third&lt;/em&gt;, based on our curated dataset, we train an automatic commentary generation model, named &lt;strong&gt;MatchVoice&lt;/strong&gt;. Extensive experiments and ablation studies have demonstrated the effectiveness of our alignment pipeline, and training model on the curated datasets achieves state-of-the-art performance for commentary generation, showcasing that better alignment can lead to significant performance improvements in downstream tasks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

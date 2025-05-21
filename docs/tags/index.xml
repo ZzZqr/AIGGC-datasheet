@@ -2,10 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Datasheet for Game Commentary Datasets</title>
-    <link>https://ZzZqr.github.io/AIGGC-datasheet/tags/</link>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/</link>
     <description>Recent content in Tags on Datasheet for Game Commentary Datasets</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
-    <atom:link href="https://ZzZqr.github.io/AIGGC-datasheet/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basketball</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/basketball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/basketball/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Board</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/board/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/board/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cricket</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/cricket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/cricket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shogi</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/shogi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/shogi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Soccer</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/soccer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/soccer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sports</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/sports/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/sports/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unknown</title>
+      <link>http://localhost:1313/AIGGC-datasheet/tags/unknown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/tags/unknown/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

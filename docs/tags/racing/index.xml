@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Racing on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/racing/</link>
+    <description>Recent content in Racing on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/racing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Audio Commentary System for Real-Time Racing Game Play</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/audio-commentary-system-for-real-time-racing-game-play/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/audio-commentary-system-for-real-time-racing-game-play/</guid>
+      <description>&lt;p&gt;Live commentaries are essential for enhancing spectators&amp;rsquo; enjoyment and understanding during sports events or e-sports streams. We introduce a live audio commentator system designed specifically for a racing game, driven by the high demand in the e-sports field. While a player is playing a racing game, our system tracks real-time user play data including speed and steer rotations, and generates commentary to accompany the live stream. Human evaluation suggested that generated commentary enhances enjoyment and understanding of races compared to streams without commentary. Incorporating additional modules to improve diversity and detect irregular events, such as course-outs and collisions, further increases the preference for the output commentaries.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

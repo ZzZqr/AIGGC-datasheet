@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sports on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/sports/</link>
+    <description>Recent content in Sports on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Descriptive Basketball Highlight Dataset for Automatic Commentary Generation</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/a-descriptive-basketball-highlight-dataset-for-automatic-commentary-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/a-descriptive-basketball-highlight-dataset-for-automatic-commentary-generation/</guid>
+      <description>&lt;p&gt;The emergence of video captioning makes it possible to automatically generate natural language description for a given video. However, generating detailed video descriptions that incorporate domain-specific information remains an unsolved challenge, holding significant research and application value, particularly in domains such as sports commentary generation. Moreover, sports event commentary goes beyond being a mere game report, it involves entertaining, metaphorical, and emotional descriptions. To promote the field of sports commentary automatic generation, in this paper, we introduce a novel dataset, the Basketball Highlight Commentary (BH-Commentary), comprising approximately 4K basketball highlight videos with groundtruth commentaries from professional commentators. In addition, we propose an end-to-end framework as a benchmark for basketball highlight commentary generation task, in which a lightweight and effective prompt strategy is designed to enhance alignment fusion among visual and textual features. Experimental results on the BH-Commentary dataset demonstrate the validity of the dataset and the effectiveness of the proposed benchmark for sports highlight commentary generation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Hybrid Deep Learning Model for Automated Cricket Commentary Generation</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/a-hybrid-deep-learning-model-for-automated-cricket-commentary-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/a-hybrid-deep-learning-model-for-automated-cricket-commentary-generation/</guid>
+      <description>&lt;p&gt;The paper proposes an innovative method for generating cricket commentary. A hybrid model is proposed that combines three types of neural networks: Convolutional Neural Networks (CNN) for image processing, Long Short-Term Memory (LSTM) networks for sequential text generation, and Graph Convolutional Networks (GCN) for semantic understanding. By integrating these components, the model can generate ball-by-ball commentary that is coherent and contextaware. The model works by processing video frames from a cricket match using CNN. The resulting feature maps are used to retain essential visual information. Fully connected layers transform the features to a format suitable for input into the LSTM. The LSTM generates one word at a time, considering the temporal dependencies inherent in ball-by-ball events. To enhance the semantic understanding between the generated captions, the GCN is used. Evaluation metrics like BLEU, METEOR, and ROUGE are used to assess the proficiency of the model.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MatchTime: Towards Automatic Soccer Game Commentary Generation</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/matchtime-towards-automatic-soccer-game-commentary-generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/matchtime-towards-automatic-soccer-game-commentary-generation/</guid>
+      <description>&lt;p&gt;Soccer is a globally popular sport with a vast audience, in this paper, we consider constructing an automatic soccer game commentary model to improve the audiences&amp;rsquo; viewing experience. In general, we make the following contributions: &lt;em&gt;First&lt;/em&gt;, observing the prevalent video-text misalignment in existing datasets, we manually annotate timestamps for 49 matches, establishing a more robust benchmark for soccer game commentary generation, termed as &lt;em&gt;SN-Caption-test-align&lt;/em&gt;; &lt;em&gt;Second&lt;/em&gt;, we propose a multi-modal temporal alignment pipeline to automatically correct and filter the existing dataset at scale, creating a higher-quality soccer game commentary dataset for training, denoted as &lt;em&gt;MatchTime&lt;/em&gt;; &lt;em&gt;Third&lt;/em&gt;, based on our curated dataset, we train an automatic commentary generation model, named &lt;strong&gt;MatchVoice&lt;/strong&gt;. Extensive experiments and ablation studies have demonstrated the effectiveness of our alignment pipeline, and training model on the curated datasets achieves state-of-the-art performance for commentary generation, showcasing that better alignment can lead to significant performance improvements in downstream tasks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

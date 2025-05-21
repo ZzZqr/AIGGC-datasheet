@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Go on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/go/</link>
+    <description>Recent content in Go on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Detection and labeling of bad moves for coaching go</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/detection-and-labeling-of-bad-moves-for-coaching-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/detection-and-labeling-of-bad-moves-for-coaching-go/</guid>
+      <description>&lt;p&gt;The level of computer programs has now reached professional strength for many games, even for the game of Go recently. A more difficult task for computer intelligence now is to create a program able to coach human players, so that they can improve their play. In this paper, we propose a method to detect and label the bad moves of human players for the game of Go. This task is challenging because even strong human players only agree at a rate of around 50% about which moves should be considered as bad. We use supervised learning with features largely available in many Go programs, and we obtain an identification level close to the one observed between strong human players. Also, an evaluation by a professional player shows that our method is already useful for intermediate-level players.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LoL on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/lol/</link>
+    <description>Recent content in LoL on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/lol/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commentary Generation from Data Records of Multiplayer Strategy Esports Game</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/commentary-generation-from-data-records-of-multiplayer-strategy-esports-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/commentary-generation-from-data-records-of-multiplayer-strategy-esports-game/</guid>
+      <description>&lt;p&gt;Esports, a sports competition on video games, has become one of the most important sporting events. Although esports play logs have been accumulated, only a small portion of them accompany text commentaries for the audience to retrieve and understand the plays. In this study, we therefore introduce the task of generating game commentaries from esports&amp;rsquo; data records. We first build large-scale esports data-to-text datasets that pair structured data and commentaries from a popular esports game, League of Legends. We then evaluate Transformer-based models to generate game commentaries from structured data records, while examining the impact of the pre-trained language models. Evaluation results on our dataset revealed the challenges of this novel task. We will release our dataset to boost potential research in the data-to-text generation community.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

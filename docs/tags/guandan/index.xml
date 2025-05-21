@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GuanDan on Datasheet for Game Commentary Datasets</title>
+    <link>http://localhost:1313/AIGGC-datasheet/tags/guandan/</link>
+    <description>Recent content in GuanDan on Datasheet for Game Commentary Datasets</description>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/AIGGC-datasheet/tags/guandan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enhancing Commentary Strategies for Imperfect Information Card Games: A Study of Large Language Models in Guandan Commentary</title>
+      <link>http://localhost:1313/AIGGC-datasheet/datasets/enhancing-commentary-strategies-for-imperfect-information-card-games-a-study-of-large-language-models-in-guandan-commentary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/AIGGC-datasheet/datasets/enhancing-commentary-strategies-for-imperfect-information-card-games-a-study-of-large-language-models-in-guandan-commentary/</guid>
+      <description>&lt;p&gt;Abstract not available.&lt;/p&gt;
+&lt;div style=&#34;margin-top: 1rem; padding: 1rem; display: inline-block;&#34;&gt;
+  &lt;a href=&#34;https://api.semanticscholar.org/CorpusID:270737995&#34; target=&#34;_blank&#34; style=&#34;background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download Paper
+  &lt;/a&gt;
+  &lt;a href=&#34;bib/enhancing-commentary-strategies-for-imperfect-information-card-games-a-study-of-large-language-models-in-guandan-commentary.bib&#34; download style=&#34;background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;&#34;&gt;
+    Download BibTeX
+  &lt;/a&gt;
+&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

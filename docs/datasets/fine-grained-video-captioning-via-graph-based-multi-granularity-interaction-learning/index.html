@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en" dir="auto">
+
+<head><script src="/AIGGC-datasheet/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=AIGGC-datasheet/livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="robots" content="noindex, nofollow">
+<title>Fine-Grained Video Captioning via Graph-based Multi-Granularity Interaction Learning | Datasheet for Game Commentary Datasets</title>
+<meta name="keywords" content="Sports, Basketball">
+<meta name="description" content="Learning to generate continuous linguistic descriptions for multi-subject interactive videos in great details has particular applications in team sports auto-narrative. In contrast to traditional video caption, this task is more challenging as it requires simultaneous modeling of fine-grained individual actions, uncovering of spatio-temporal dependency structures of frequent group interactions, and then accurate mapping of these complex interaction details into long and detailed commentary. To explicitly address these challenges, we propose a novel framework Graph-based Learning for Multi-Granularity Interaction Representation (GLMGIR) for fine-grained team sports auto-narrative task. A multi-granular interaction modeling module is proposed to extract among-subjects’ interactive actions in a progressive way for encoding both intra- and inter-team interactions. Based on the above multi-granular representations, a multi-granular attention module is developed to consider action/event descriptions of multiple spatio-temporal resolutions. Both modules are integrated seamlessly and work in a collaborative way to generate the final narrative. In the meantime, to facilitate reproducible research, we collect a new video dataset from YouTube.com called Sports Video Narrative dataset (SVN). It is a novel direction as it contains $6K$mml:mathmml:mrowmml:mn6&lt;/mml:mn&gt;mml:miK&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt; team sports videos (i.e., NBA basketball games) with $10K$mml:mathmml:mrowmml:mn10&lt;/mml:mn&gt;mml:miK&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt; ground-truth narratives(e.g., sentences). Furthermore, as previous metrics such as METEOR (i.e., used in coarse-grained video caption task) DO NOT cope with fine-grained sports narrative task well, we hence develop a novel evaluation metric named Fine-grained Captioning Evaluation (FCE), which measures how accurate the generated linguistic description reflects fine-grained action details as well as the overall spatio-temporal interactional structure. Extensive experiments on our SVN dataset have demonstrated the effectiveness of the proposed framework for fine-grained team sports video auto-narrative.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/AIGGC-datasheet/datasets/fine-grained-video-captioning-via-graph-based-multi-granularity-interaction-learning/">
+<link crossorigin="anonymous" href="/AIGGC-datasheet/assets/css/stylesheet.6e3cae23ffdb771f23d63cb0f916b137936e5c06b0eed3ec4bc79a2b0809b644.css" integrity="" rel="preload stylesheet" as="style">
+<link rel="icon" href="http://localhost:1313/AIGGC-datasheet/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/AIGGC-datasheet/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/AIGGC-datasheet/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:1313/AIGGC-datasheet/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:1313/AIGGC-datasheet/safari-pinned-tab.svg">
+<meta name="theme-color" content="#2e2e33">
+<meta name="msapplication-TileColor" content="#2e2e33">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/AIGGC-datasheet/datasets/fine-grained-video-captioning-via-graph-based-multi-granularity-interaction-learning/">
+<noscript>
+    <style>
+        #theme-toggle,
+        .top-link {
+            display: none;
+        }
+
+    </style>
+</noscript>
+</head>
+
+<body class="" id="top">
+
+<header class="header">
+    <nav class="nav">
+        <div class="logo">
+            <a href="http://localhost:1313/AIGGC-datasheet/" accesskey="h" title="Datasheet for Game Commentary Datasets (Alt + H)">Datasheet for Game Commentary Datasets</a>
+            <div class="logo-switches">
+            </div>
+        </div>
+        <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/AIGGC-datasheet/datasets/" title="Datasets">
+                    <span>Datasets</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/AIGGC-datasheet/datasheet/" title="Datasheet">
+                    <span>Datasheet</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/AIGGC-datasheet/about/" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+<main class="main">
+
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Fine-Grained Video Captioning via Graph-based Multi-Granularity Interaction Learning
+    </h1>
+    <div class="post-meta">
+
+</div>
+  </header> 
+  <div class="post-content"><p>Learning to generate continuous linguistic descriptions for multi-subject interactive videos in great details has particular applications in team sports auto-narrative. In contrast to traditional video caption, this task is more challenging as it requires simultaneous modeling of fine-grained individual actions, uncovering of spatio-temporal dependency structures of frequent group interactions, and then accurate mapping of these complex interaction details into long and detailed commentary. To explicitly address these challenges, we propose a novel framework <italic>Graph-based Learning for Multi-Granularity Interaction Representation (GLMGIR)</italic> for fine-grained team sports auto-narrative task. A multi-granular interaction modeling module is proposed to extract among-subjects’ interactive actions in a progressive way for encoding both intra- and inter-team interactions. Based on the above multi-granular representations, a multi-granular attention module is developed to consider action/event descriptions of multiple spatio-temporal resolutions. Both modules are integrated seamlessly and work in a collaborative way to generate the final narrative. In the meantime, to facilitate reproducible research, we collect a new video dataset from <italic>YouTube.com</italic> called Sports Video Narrative dataset (SVN). It is a novel direction as it contains <inline-formula><tex-math notation="LaTeX">$6K$</tex-math><alternatives><a href="mml:math">mml:math</a><a href="mml:mrow">mml:mrow</a><a href="mml:mn">mml:mn</a>6&lt;/mml:mn&gt;<a href="mml:mi">mml:mi</a>K&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;<inline-graphic xlink:href="zhuang-ieq1-2946823.gif"/></alternatives></inline-formula> team sports videos (i.e., NBA basketball games) with <inline-formula><tex-math notation="LaTeX">$10K$</tex-math><alternatives><a href="mml:math">mml:math</a><a href="mml:mrow">mml:mrow</a><a href="mml:mn">mml:mn</a>10&lt;/mml:mn&gt;<a href="mml:mi">mml:mi</a>K&lt;/mml:mi&gt;&lt;/mml:mrow&gt;&lt;/mml:math&gt;<inline-graphic xlink:href="zhuang-ieq2-2946823.gif"/></alternatives></inline-formula> ground-truth narratives(e.g., sentences). Furthermore, as previous metrics such as METEOR (i.e., used in coarse-grained video caption task) DO NOT cope with fine-grained sports narrative task well, we hence develop a novel evaluation metric named Fine-grained Captioning Evaluation (FCE), which measures how accurate the generated linguistic description reflects fine-grained action details as well as the overall spatio-temporal interactional structure. Extensive experiments on our SVN dataset have demonstrated the effectiveness of the proposed framework for fine-grained team sports video auto-narrative.</p>
+<div style="margin-top: 1rem; padding: 1rem; display: inline-block;">
+  <a href="https://doi.org/10.1109/TPAMI.2019.2946823" target="_blank" style="background-color: #0d9bdc; color: white; padding: 10px 16px; margin-right: 8px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    Download Paper
+  </a>
+  <a href="bib/fine-grained-video-captioning-via-graph-based-multi-granularity-interaction-learning.bib" download style="background-color: #f0a500; color: white; padding: 10px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    Download BibTeX
+  </a>
+</div>
+
+
+  </div>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/AIGGC-datasheet/tags/sports/">Sports</a></li>
+      <li><a href="http://localhost:1313/AIGGC-datasheet/tags/basketball/">Basketball</a></li>
+    </ul>
+  </footer>
+</article>
+    </main>
+    
+<footer class="footer">
+        <span>&copy; 2025 <a href="http://localhost:1313/AIGGC-datasheet/">Datasheet for Game Commentary Datasets</a></span> · 
+
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+    </span>
+</footer>
+<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
+        <path d="M12 6H0l6-6z" />
+    </svg>
+</a>
+
+<script>
+    let menu = document.getElementById('menu')
+    if (menu) {
+        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        menu.onscroll = function () {
+            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
+        }
+    }
+
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener("click", function (e) {
+            e.preventDefault();
+            var id = this.getAttribute("href").substr(1);
+            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
+                    behavior: "smooth"
+                });
+            } else {
+                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
+            }
+            if (id === "top") {
+                history.replaceState(null, null, " ");
+            } else {
+                history.pushState(null, null, `#${id}`);
+            }
+        });
+    });
+
+</script>
+<script>
+    var mybutton = document.getElementById("top-link");
+    window.onscroll = function () {
+        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+            mybutton.style.visibility = "visible";
+            mybutton.style.opacity = "1";
+        } else {
+            mybutton.style.visibility = "hidden";
+            mybutton.style.opacity = "0";
+        }
+    };
+
+</script>
+</body>
+
+</html>
